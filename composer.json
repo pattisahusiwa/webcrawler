@@ -1,0 +1,30 @@
+{
+    "name": "pattisahusiwa/webcrawler",
+    "description": "Coding skill test for a developer job. Simulate checkout a product using pure PHP without browser automation.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Asis Pattisahusiwa",
+            "email": "asis.pattisahusiwa@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fabpot/goutte": "^4.0"
+    },
+    "require-dev": {
+        "pattisahusiwa/coding-standard": "^0.4.0",
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pts\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Pts\\Tests\\": "src/tests"
+        }
+    }
+}

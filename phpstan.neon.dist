@@ -1,0 +1,11 @@
+parameters:
+    level: max
+    paths:
+        - src
+        - tests
+
+    ignoreErrors:
+        - '#Method [\w\\]+::test[\w]+\(\) has no return typehint specified#'
+
+    # Miscellaneous parameters
+    inferPrivatePropertyTypeFromConstructor: true

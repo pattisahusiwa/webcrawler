@@ -1,0 +1,8 @@
+/vendor/
+/.phive/
+/tools/
+
+phpcs.xml
+phpunit.xml
+phpstan.neon
+.phpunit.result.cache
