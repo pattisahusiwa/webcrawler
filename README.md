@@ -10,4 +10,4 @@ The main objective of this project is to add product to a bag without using brow
 2. Install all the dependencies
 3. Execute `index.php` using php interpreter
 ![](result.png)
-4. You can also running unit test by executing `phpunit` in the vendor directory.
+4. You can also run unit testing by executing `phpunit` in the vendor directory.
