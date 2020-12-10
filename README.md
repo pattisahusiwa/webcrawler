@@ -1,7 +1,7 @@
 # WebCrawler
 
 This project is created to fulfill job interview test. The test requirement can be seen in the figure below.
-The main objective of this project is to add product to chart without using browser automation.
+The main objective of this project is to add product to a bag without using browser automation.
 
 ![](requirement.png)
 
